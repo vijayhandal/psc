@@ -1,0 +1,5 @@
+input{
+    width: 40%;
+}input:last-child{
+    width: 41%;
+}
